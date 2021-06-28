@@ -15,7 +15,7 @@ export const Projects = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/01-large.jpg'
+                    href=''
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -81,7 +81,7 @@ export const Projects = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/04-large.jpg'
+                    href=''
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >

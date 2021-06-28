@@ -1,136 +1,58 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Keren Huang",
+        "paragraph": "Electrical & Computer Engineering Student @ Carnegie Mellon University"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Hello! My name is Keren, and I am an Electrical & Computer Engineering student @ Carnegie Mellon University. I love working on software projects for social impact, while experimenting with new tools and frameworks. When I'm not coding or doing schoolwork, you can find me swimming, playing piano, watching TV shows/movies, or playing Pokemon Go! ",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Python",
+            "C/C++",
+            "HTML/CSS/JavaScript",
+            "Flutter/Dart",
+            "Java"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ]
+            "React.js/Node.js/Express.js",
+            "MongoDB",
+            "Machine Learning",
+            "Amazon Web Services (AWS)",
+            "Diligent, resilient, adaptable"
+        ],
+        "Why3": [
+            "Introduction to Computer Systems",
+            "Principles of Imperative Computation (Data Structures)",
+            "Principles of Functional Programming",
+            "Fundamentals of Programming and Computer Science"
+        ]    
     },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
-    ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
-    ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
-        }
-    ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "address": "Pittsburgh, PA 15213",
+        "phone": "(848) 391-2817",
+        "email": "kerenh@andrew.cmu.edu",
+        "facebook": "https://www.facebook.com/kswim8/",
+        "twitter": "https://twitter.com/KerenHuang",
+        "youtube": "https://www.youtube.com/channel/UCAPMqPpiuQ7_oQPbYUiTltA"
     },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    "Resume": [{
+            "icon": "fa fa-file-text",
+            "link": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4f1200b3-4ef1-43b7-9a35-2f3a92cce846/Keren_Huang_Resume_1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210628T024711Z&X-Amz-Expires=86400&X-Amz-Signature=ab581921088dea94a7cab1d73521cda80a39c2ba196b53a9719fb5c95987d2e0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Keren_Huang_Resume_1.pdf%22",
+            "title": "Resume",
+            "text": ""
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-linkedin-square",
+            "link": "https://www.linkedin.com/in/keren-h/",
+            "title": "LinkedIn",
+            "text": ""
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-github-square",
+            "link": "https://github.com/kswim8",
+            "title": "GitHub",
+            "text": ""
         }
     ]
 }

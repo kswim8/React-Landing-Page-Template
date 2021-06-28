@@ -1,12 +1,11 @@
-export const Gallery = (props) => {
+export const Projects = (props) => {
   return (
     <div id='portfolio' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Gallery</h2>
+          <h2>Projects</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Here are a few projects I've been working on and worked on.
           </p>
         </div>
         <div className='row'>
@@ -21,10 +20,11 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Lorem Ipsum</h4>
+                      <h4>ScottyMaps</h4>
+                      <h6>Carnegie Mellon University Mobile AR Navigation Application</h6>
                     </div>
                     <img
-                      src='img/portfolio/01-small.jpg'
+                      src='img/projects/scottymaps.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -37,15 +37,16 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/02-large.jpg'
+                    href='https://apps.apple.com/us/app/scottylabs-dashboard/id1556362423'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Adipiscing Elit</h4>
+                      <h4>ScottyLabs Dashboard</h4>
+                      <h6>ScottyLabs TartanHacks Management Application</h6>
                     </div>
                     <img
-                      src='img/portfolio/02-small.jpg'
+                      src='img/projects/thx.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -58,15 +59,16 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/03-large.jpg'
+                    href='https://github.com/kswim8/Wit-on-Wellness'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Lorem Ipsum</h4>
+                      <h4>Wit on Wellness</h4>
+                      <h6>Edutainment Application (Nutrition x Computer Science)</h6>
                     </div>
                     <img
-                      src='img/portfolio/03-small.jpg'
+                      src='img/projects/wow.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -84,10 +86,11 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Lorem Ipsum</h4>
+                      <h4>Sentiment Analysis Toolkit</h4>
+                      <h6>Natural Language Processing x Sentiment Analysis</h6>
                     </div>
                     <img
-                      src='img/portfolio/04-small.jpg'
+                      src='img/projects/sentanal.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -100,15 +103,16 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/05-large.jpg'
+                    href='https://kswim8.github.io/handwriting-ml.github.io/handwritingv2.html'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Adipiscing Elit</h4>
+                      <h4>Handwritten Digit Recognizer</h4>
+                      <h6>Machine Learning Model for Handwritten Digit Recognition</h6>
                     </div>
                     <img
-                      src='img/portfolio/05-small.jpg'
+                      src='img/projects/handdigit.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -121,15 +125,16 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/06-large.jpg'
+                    href='https://github.com/kswim8/HellsKomputer'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Dolor Sit</h4>
+                      <h4>Hell's Computer</h4>
+                      <h6>Gordon Ramsay Takes Over Coding Environment!</h6>
                     </div>
                     <img
-                      src='img/portfolio/06-small.jpg'
+                      src='img/projects/hk.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -137,7 +142,7 @@ export const Gallery = (props) => {
                 </div>
               </div>
             </div>
-            <div className='col-sm-6 col-md-4 col-lg-4'>
+            {/*<div className='col-sm-6 col-md-4 col-lg-4'>
               <div className='portfolio-item'>
                 <div className='hover-bg'>
                   {' '}
@@ -199,7 +204,7 @@ export const Gallery = (props) => {
                   </a>{' '}
                 </div>
               </div>
-            </div>
+            </div>*/}
           </div>
         </div>
       </div>

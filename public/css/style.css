@@ -222,12 +222,12 @@ header .intro-text {
 	padding-bottom: 200px;
 	text-align: center;
 }
-/* Features Section */
-#features {
+/* resume Section */
+#resume {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
-#features i.fa {
+#resume i.fa {
 	font-size: 38px;
 	margin-bottom: 20px;
 	transition: all 0.5s;
@@ -286,19 +286,19 @@ header .intro-text {
 	line-height: 24px;
 	margin: 30px 0;
 }
-/* Services Section */
-#services {
+/* experience Section */
+#experience {
 	padding: 100px 0;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	color: #fff;
 }
-#services .service-desc {
+#experience .service-desc {
 	margin: 10px 10px 20px;
 }
-#services h2 {
+#experience h2 {
 	color: #fff;
 }
-#services .section-title h2::after {
+#experience .section-title h2::after {
 	position: absolute;
 	content: "";
 	background: rgba(255,255,255,.3);
@@ -308,7 +308,7 @@ header .intro-text {
 	margin-left: -30px;
 	left: 50%;
 }
-#services i.fa {
+#experience i.fa {
 	font-size: 42px;
 	width: 120px;
 	height: 120px;
@@ -318,20 +318,21 @@ header .intro-text {
 	color: #fff;
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
-#services h3 {
+#experience h3 {
 	font-weight: 500;
 	padding: 5px 0;
 	color: #fff;
 }
-#services p {
+#experience p {
 	color: rgba(255,255,255,.75);
 }
-#services .service-desc {
+#experience .service-desc {
 	margin-bottom: 40px;
 }
 /* Portfolio Section */
 #portfolio {
 	padding: 100px 0;
+	background: #f6f6f6;
 }
 .portfolio-item {
 	margin: 1px -15px 0 -14px;

@@ -15,7 +15,7 @@ export const Projects = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href=''
+                    href='https://docs.google.com/presentation/d/1woc97ea-GsLPoSoiY2xzpazkTsGrIecv0HLwbt_Ap34/edit#slide=id.ge0e1ef5a58_0_19'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -81,7 +81,7 @@ export const Projects = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href=''
+                    href='https://colab.research.google.com/drive/1BQCAa20YovbLVWI6d-7YS876u9YZxlhD?usp=sharing'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >

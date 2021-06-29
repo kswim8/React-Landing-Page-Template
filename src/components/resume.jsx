@@ -8,7 +8,7 @@ export const Resume = (props) => {
         <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.title}-${i}`} className='col-xs-6 col-md-4'>
+                <div key={`${d.title}-${i}`} className='col-xs-6 col-md-3'>
                   {' '}
                   {/*<i className={d.icon}></i>*/}
                   <a href={d.link}> <i className={d.icon}  ></i> </a>

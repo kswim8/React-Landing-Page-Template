@@ -6,10 +6,11 @@
 
     },
     "About": {
-        "paragraph": "Hello! My name is Keren, and I am an Electrical & Computer Engineering student @ Carnegie Mellon University. I love working on software projects for social impact, while experimenting with new tools and frameworks. When I'm not coding or doing schoolwork, you can find me swimming, playing piano, watching TV shows/movies, or playing Pokemon Go! ",
+        "paragraph": "Hello! My name is Keren, and I am an Electrical & Computer Engineering student @ Carnegie Mellon University. I love working on software projects for social impact, while experimenting with new tools and frameworks. When I'm not coding or doing schoolwork, you can find me swimming, playing piano, watching TV shows/movies (I'm watching Brooklyn 99 right now!), or playing Pokemon Go! ",
         "Why": [
             "Python",
             "C/C++",
+            "SAS",
             "HTML/CSS/JavaScript",
             "Flutter/Dart",
             "Java"
@@ -19,7 +20,8 @@
             "MongoDB",
             "Machine Learning",
             "Amazon Web Services (AWS)",
-            "Diligent, resilient, adaptable"
+            "Team player, mentor, software developer",
+            "Diligent, resilient, adaptable, reliable"
         ],
         "Why3": [
             "Introduction to Computer Systems",

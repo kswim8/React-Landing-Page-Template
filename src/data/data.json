@@ -38,7 +38,7 @@
     },
     "Resume": [{
             "icon": "fa fa-file-text",
-            "link": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/153a5177-1b8d-446d-bac7-a1ccb3c1cddf/Keren_Huang_Resume_1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210629%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210629T213958Z&X-Amz-Expires=86400&X-Amz-Signature=ca29d85555b8ee54ddf3a4a21859e200aac58704e3fc5e69b5e88891e7cf43a5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Keren_Huang_Resume_1.pdf%22",
+            "link": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1fd7a12c-c7b9-4dce-983d-1144258c5a7b/Keren_Huang_Resume_1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210701%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210701T041618Z&X-Amz-Expires=86400&X-Amz-Signature=32816b0c37a5256382fe184a7a360f2c63ff2b3365f456d7688d9b86c86ad230&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Keren_Huang_Resume_1.pdf%22",
             "title": "Resume",
             "text": ""
         },

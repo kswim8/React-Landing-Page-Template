@@ -46,7 +46,7 @@ export const Experience = (props) => {
                         <h6>Start Date - End Date</h6>
                       </div>
                       <img
-                        src='img/experience/mathworks.jpg'
+                        src='img/experience/mathworks.png'
                         className='img-responsive'
                         alt='Project Title'
                       />{' '}

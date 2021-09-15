@@ -36,17 +36,17 @@ export const Experience = (props) => {
                   <div className='hover-bg'>
                     {' '}
                     <a
-                      href='img/portfolio/09-large.jpg'
-                      title='Project Title'
+                      href='https://www.mathworks.com/'
+                      title='MathWorks'
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
                         <h4>Software Developer Intern</h4>
                         <h5>@ MathWorks</h5>
-                        <h6>Aug 2021 - PRESENT</h6>
+                        <h6>Start Date - End Date</h6>
                       </div>
                       <img
-                        src='img/portfolio/09-small.jpg'
+                        src='img/experience/mathworks.jpg'
                         className='img-responsive'
                         alt='Project Title'
                       />{' '}

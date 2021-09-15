@@ -30,7 +30,7 @@ export const Experience = (props) => {
                     </a>{' '}
                   </div>
                 </div>
-              </div>
+              </div> */}
               <div className='col-sm-6 col-md-4 col-lg-4'>
                 <div className='portfolio-item'>
                   <div className='hover-bg'>
@@ -41,7 +41,9 @@ export const Experience = (props) => {
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Software Developer Intern</h4>
+                        <h5>@ MathWorks</h5>
+                        <h6>Aug 2021 - PRESENT</h6>
                       </div>
                       <img
                         src='img/portfolio/09-small.jpg'
@@ -51,7 +53,7 @@ export const Experience = (props) => {
                     </a>{' '}
                   </div>
                 </div>
-              </div> */}
+              </div> 
               <div className='col-sm-6 col-md-4 col-lg-4'>
                 <div className='portfolio-item'>
                   <div className='hover-bg'>

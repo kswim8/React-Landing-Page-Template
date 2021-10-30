@@ -10,7 +10,7 @@ export const Experience = (props) => {
           </div>
           <div className='row'>
             <div className='portfolio-items'>
-            {/*<div className='col-sm-6 col-md-4 col-lg-4'>
+            <div className='col-sm-6 col-md-4 col-lg-4'>
                 <div className='portfolio-item'>
                   <div className='hover-bg'>
                     {' '}
@@ -36,24 +36,24 @@ export const Experience = (props) => {
                   <div className='hover-bg'>
                     {' '}
                     <a
-                      href='https://www.mathworks.com/'
-                      title='MathWorks'
+                      href='https://www.facebook.com/'
+                      title='Facebook / Meta'
                       data-lightbox-gallery='gallery1'
                     >
                       <div className='hover-text'>
-                        <h4>Software Developer Intern</h4>
-                        <h5>@ MathWorks</h5>
+                        <h4>Software Engineer Intern</h4>
+                        <h5>@ Facebook / Meta</h5>
                         <h6>Start Date - End Date</h6>
                       </div>
                       <img
-                        src='img/experience/mathworks.png'
+                        src='img/experience/fb-meta.gif'
                         className='img-responsive'
                         alt='Project Title'
                       />{' '}
                     </a>{' '}
                   </div>
                 </div>
-              </div> */}
+              </div>
               <div className='col-sm-6 col-md-4 col-lg-4'>
                 <div className='portfolio-item'>
                   <div className='hover-bg'>

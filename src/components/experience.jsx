@@ -46,7 +46,7 @@ export const Experience = (props) => {
                         <h6>Starting May 2022</h6>
                       </div>
                       <img
-                        src='img/experience/fb-meta.gif'
+                        src='img/experience/fb-meta (1).gif'
                         className='img-responsive'
                         alt='Project Title'
                         height="333"

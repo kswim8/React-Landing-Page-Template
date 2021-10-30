@@ -10,7 +10,7 @@ export const Experience = (props) => {
           </div>
           <div className='row'>
             <div className='portfolio-items'>
-            <div className='col-sm-6 col-md-4 col-lg-4'>
+            {/*<div className='col-sm-6 col-md-4 col-lg-4'>
                 <div className='portfolio-item'>
                   <div className='hover-bg'>
                     {' '}
@@ -30,7 +30,7 @@ export const Experience = (props) => {
                     </a>{' '}
                   </div>
                 </div>
-              </div> 
+              </div> */}
               <div className='col-sm-6 col-md-4 col-lg-4'>
                 <div className='portfolio-item'>
                   <div className='hover-bg'>
@@ -43,7 +43,7 @@ export const Experience = (props) => {
                       <div className='hover-text'>
                         <h4>Software Engineer Intern</h4>
                         <h5>@ Facebook / Meta</h5>
-                        <h6>Start Date - End Date</h6>
+                        <h6>Starting May 2022</h6>
                       </div>
                       <img
                         src='img/experience/fb-meta.gif'

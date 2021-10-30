@@ -49,6 +49,7 @@ export const Experience = (props) => {
                         src='img/experience/fb-meta.gif'
                         className='img-responsive'
                         alt='Project Title'
+                        height="333"
                       />{' '}
                     </a>{' '}
                   </div>

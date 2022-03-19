@@ -2,11 +2,11 @@
     "Header": {
 
         "title": "Keren Huang",
-        "paragraph": "Electrical & Computer Engineering Student @ Carnegie Mellon University"
+        "paragraph": "Computer Science Student @ Carnegie Mellon University"
 
     },
     "About": {
-        "paragraph": "Hello! My name is Keren, and I am an Electrical & Computer Engineering student @ Carnegie Mellon University. I love working on software projects for social impact, while experimenting with new tools and frameworks. When I'm not coding or doing schoolwork, you can find me swimming, playing piano, watching TV shows/movies (I'm watching Brooklyn 99 right now!), or playing Pokemon Go! ",
+        "paragraph": "Hello! My name is Keren, and I am a Computer Science student @ Carnegie Mellon University. I love working on software projects for social impact, while experimenting with new tools and frameworks. When I'm not coding or doing schoolwork, you can find me swimming, playing piano, watching TV shows/movies (I'm watching Daredevil right now!), or playing Pokemon Go! ",
         "Why": [
             "Python",
             "C/C++",
@@ -25,17 +25,17 @@
         ],
         "Why3": [
             "Introduction to Computer Systems",
-            "Principles of Imperative Computation (Data Structures)",
-            "Principles of Functional Programming",
-            "Fundamentals of Programming and Computer Science"
+            "Parallel and Sequential Data Structures and Algorithms",
+            "Great Ideas in Theoretical Computer Science",
+            "Introduction to Machine Learning (future)"
         ]    
     },
     "Contact": {
         "address": "Pittsburgh, PA 15213",
-        "phone": "(848) 391-2817",
+        "phone": "",
         "email": "kerenh@andrew.cmu.edu",
-        "facebook": "https://www.facebook.com/kswim8/",
-        "twitter": "https://twitter.com/KerenHuang",
+        "facebook": "",
+        "twitter": "",
         "youtube": "https://www.youtube.com/channel/UCAPMqPpiuQ7_oQPbYUiTltA"
     },
     "Resume": [{
